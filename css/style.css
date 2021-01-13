@@ -1,0 +1,43 @@
+ 
+img{
+    width: 100%;
+}
+.logo-img{
+    width: 300px;
+}
+.women-card{
+    width: 310px;
+    height: 400px;
+    padding: 30px;
+    margin: 15px 20px 5px 20px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.card-jacket{
+    border: 0;
+}
+.card-jacked-footer{
+    border: 0;
+    background-color: white;
+}
+.yellow-jacked{
+    width: 300px;
+    height: 350px;
+    margin: 0 -23px;
+    
+}
+.man-lather-jacked{
+    height: 350px;
+}
+.find-logo{
+    width: 50px;
+}
+h1{
+    color: #363958;
+}
+ 
+ 
