@@ -30,6 +30,9 @@ img{
     margin: 0 -23px;
     
 }
+.perfect-area{
+    height: 100px;
+}
 .man-lather-jacked{
     height: 350px;
 }
@@ -38,6 +41,23 @@ img{
 }
 h1{
     color: #363958;
+}
+.off-area{
+    margin: -57px -22px;
+}
+.before-responsive img{
+    margin-top: -2px;
+    order: 0;
+     
+}
+.bg-set{
+    background-color: #FFFBF0;
+     
+}
+.bg-set-owner{
+    background-color: #FFFBF0;
+    height: 650px;
+    margin-top: -50px;
 }
  
  
